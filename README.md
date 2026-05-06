@@ -2,4 +2,4 @@
 
 Hola, mi nombre es Alexis Sinue González Medina.
 
-* Descripción del proyecto
+*Descripción del proyecto
